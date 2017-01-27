@@ -36,9 +36,3 @@ for y in range(0,len(filelist)):
 print('建立 ' + new_save_file_name)
 file.save(new_save_file_name)
 print('完成')
-
-
-
-
-
-
